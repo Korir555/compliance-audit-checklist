@@ -1,0 +1,7 @@
+# Compliance Audit Checklist
+
+Flask==2.3.0
+Flask-SQLAlchemy==3.0.0
+Flask-CORS==4.0.0
+python-docx==0.8.11
+reportlab==4.0.0
